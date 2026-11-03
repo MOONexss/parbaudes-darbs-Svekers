@@ -1,0 +1,10 @@
+J1
+
+A)Nav instalēta pareizā versija, parbaudīt ar --version
+B)Nav admina piekļuves, run programm as an administrator
+C)Nav vajadzīga faila, parbaudīt ar Test-Path.
+D)
+
+
+J2
+Failā var saglabāt rezultātus un velak tos apskatīt	

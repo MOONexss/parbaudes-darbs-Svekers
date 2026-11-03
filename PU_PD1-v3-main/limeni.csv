@@ -1,0 +1,6 @@
+﻿#TYPE Selected.Microsoft.PowerShell.Commands.GroupInfo
+"Name","Count"
+"INFO","747"
+"WARNING","284"
+"ERROR","146"
+"CRITICAL","23"
